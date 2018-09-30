@@ -4,9 +4,9 @@ A repository to host the code I used to pass the Algorithmic Toolbox course host
 
 Contents:
 
-> Programming Challenge
-> Algorithmic Warmup
-> Greedy Algorithm
-> Divide and Conquer
-> Dynamic Programming I
-> Dynamic Programming II
+1. Programming Challenge
+2. Algorithmic Warmup
+3. Greedy Algorithm
+4. Divide and Conquer
+5. Dynamic Programming I
+6. Dynamic Programming II
